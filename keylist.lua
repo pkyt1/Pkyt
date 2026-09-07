@@ -19,7 +19,7 @@ return {
         
         ["PKYT"] = {
         type = "DEMO",
-        expiry = "2026-08-01",
+        expiry = "2026-09-8",
         valid = true,
         max_devices = 1,
         SLOT = "2"
