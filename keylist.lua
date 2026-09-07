@@ -31,6 +31,13 @@ return {
         max_devices = 1,
         SLOT = "2"
     },
+["GRW"] = {
+        type = "DEMO",
+        expiry = "2026-09-14",
+        valid = true,
+        max_devices = 1,
+        SLOT = "2"
+    },
     ["SINGLE_USER"] = {
         type = "VIP",
         expiry = "2025-01-01",
