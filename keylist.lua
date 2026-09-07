@@ -16,6 +16,13 @@ return {
         valid = true,
         max_devices = 5,
         SLOT = "2"
+        
+        ["PKYT"] = {
+        type = "DEMO",
+        expiry = "2026-08-01",
+        valid = true,
+        max_devices = 1,
+        SLOT = "2"
     },
     ["SINGLE_USER"] = {
         type = "VIP",
