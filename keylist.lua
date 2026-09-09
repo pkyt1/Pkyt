@@ -41,7 +41,7 @@ return {
         ["PKLEADER"] = {
         type = "DEMO",
         expiry = "2026-09-8",
-        valid = true,
+        valid = false,
         max_devices = 2,
         SLOT = "2"
     },
