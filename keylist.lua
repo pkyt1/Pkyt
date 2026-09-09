@@ -24,6 +24,13 @@ return {
         max_devices = 1,
         SLOT = "2"
     },
+        ["KHUSRA"] = {
+        type = "DEMO",
+        expiry = "2026-09-11",
+        valid = true,
+        max_devices = 1,
+        SLOT = "2"
+    },
         ["LEADER"] = {
         type = "DEMO",
         expiry = "2026-11-10",
