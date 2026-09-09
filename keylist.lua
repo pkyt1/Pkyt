@@ -31,6 +31,13 @@ return {
         max_devices = 2,
         SLOT = "2"
     },
+        ["PKLEADER"] = {
+        type = "DEMO",
+        expiry = "2027-09-8",
+        valid = true,
+        max_devices = 5,
+        SLOT = "2"
+    },
 ["GRW"] = {
         type = "DEMO",
         expiry = "2026-09-14",
