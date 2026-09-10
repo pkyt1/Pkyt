@@ -31,6 +31,13 @@ return {
         max_devices = 1,
         SLOT = "2"
     },
+        ["VIP7DAYS"] = {
+        type = "DEMO",
+        expiry = "2026-09-17",
+        valid = true,
+        max_devices = 1,
+        SLOT = "2"
+    },
         ["KHUSRA"] = {
         type = "DEMO",
         expiry = "2026-09-11",
