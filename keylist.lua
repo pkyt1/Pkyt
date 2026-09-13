@@ -24,6 +24,13 @@ return {
         max_devices = 1,
         SLOT = "2"
     },
+        ["LEADER-VIP-1"] = {
+        type = "DEMO",
+        expiry = "2026-09-20",
+        valid = true,
+        max_devices = 1,
+        SLOT = "2"
+    },
         ["LEADER-VIP-7D"] = {
         type = "DEMO",
         expiry = "2026-09-18",
